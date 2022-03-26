@@ -37,8 +37,10 @@ This assignment requires automation of joint saving accounts creation. Create a 
 #### Compile and Deploy Your Contract in the JavaScript VM
 
 ##### Screenshot of successful compilation
-##### Screenshot of successful deployment
 
+![Compilation](./Execution_results/Compilation.png)
+##### Screenshot of successful deployment
+![Deployment](./Execution_results/Deployment.png)
 #### Interact with Your Deployed Smart Contract
 
 Steps to interact with your deployed smart contract:
